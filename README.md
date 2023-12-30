@@ -1,4 +1,5 @@
 # WeatherSphere
+Transforming the forecast game, powered by **WeatherWave**.
 
 Imagine having a super cool weather app called WeatherSphere that gives you the most up-to-date weather info from all over the world. This awesome website uses fancy technology (APIs) to grab the latest and most accurate weather data.
 
